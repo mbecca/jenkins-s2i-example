@@ -1,4 +1,4 @@
-git:2.4.4
+git:3.6.0
 scm-api:2.2.6
-git-client:1.19.6
+git-client:1.19.7
 greenballs:1.15
